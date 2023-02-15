@@ -1,0 +1,7 @@
+You will be given a github repo.  You will be given a path (full path with folders and a file).   Each folder will have owners (looks like it will be an owners file inside each folder).   Only an owner of a folder will have access to modify the folder and all of the subfolders.
+
+There will also be a comma separated file with approvers.
+
+You will be asked to clone the repo,  share your screen and write a command line tool, with any IDE and any language you want.
+
+You will need to write a function that will receive a path and an approvers list that needs to return if the file can be approved.
